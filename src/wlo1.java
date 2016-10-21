@@ -12,7 +12,7 @@ public class wlo1 {
 			
 			System.out.println("Succeded1");
 			
-			
+			System.out.println("Succeded2222222");
 			
 			
 			///
